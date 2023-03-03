@@ -16,12 +16,9 @@ const Router = () => {
   return (
     <React.Fragment>
       <Routes>
-        <Route path="/" element={<Page0 />} />
-        <Route path="/a" element={<PageA />} />
-        <Route path="/b" element={<PageB />} />
-        <Route path="/react-with-ga/" element={<Page0 />} />
-        <Route path="/react-with-ga/a" element={<PageA />} />
-        <Route path="/react-with-ga/b" element={<PageB />} />
+        <Route path="*/" element={<Page0 />} />
+        <Route path="*/a" element={<PageA />} />
+        <Route path="*/b" element={<PageB />} />
       </Routes>
     </React.Fragment>
   );
