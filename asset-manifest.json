@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-wigh-ga/static/css/main.073c9b0a.css",
-    "main.js": "/react-wigh-ga/static/js/main.a1cc60dd.js",
-    "static/js/787.2e835cbe.chunk.js": "/react-wigh-ga/static/js/787.2e835cbe.chunk.js",
-    "static/media/logo.svg": "/react-wigh-ga/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-wigh-ga/index.html",
-    "main.073c9b0a.css.map": "/react-wigh-ga/static/css/main.073c9b0a.css.map",
-    "main.a1cc60dd.js.map": "/react-wigh-ga/static/js/main.a1cc60dd.js.map",
-    "787.2e835cbe.chunk.js.map": "/react-wigh-ga/static/js/787.2e835cbe.chunk.js.map"
+    "main.css": "/react-with-ga/static/css/main.073c9b0a.css",
+    "main.js": "/react-with-ga/static/js/main.e6136ede.js",
+    "static/js/787.2e835cbe.chunk.js": "/react-with-ga/static/js/787.2e835cbe.chunk.js",
+    "static/media/logo.svg": "/react-with-ga/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-with-ga/index.html",
+    "main.073c9b0a.css.map": "/react-with-ga/static/css/main.073c9b0a.css.map",
+    "main.e6136ede.js.map": "/react-with-ga/static/js/main.e6136ede.js.map",
+    "787.2e835cbe.chunk.js.map": "/react-with-ga/static/js/787.2e835cbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a1cc60dd.js"
+    "static/js/main.e6136ede.js"
   ]
 }
