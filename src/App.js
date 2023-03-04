@@ -12,8 +12,9 @@ import './App.css';
 
 const Router = () => {
   useEffect(() => {
-    usePageTracking();
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
+  usePageTracking();
 
   return (
     <React.Fragment>
