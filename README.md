@@ -1,16 +1,18 @@
 # React App with GA4
 
-フロントエンドフレームワーク(React)を利用して開発したアプリケーションで GA4 タグを利用するサンプル
+フロントエンドフレームワーク(React)を利用して開発したアプリケーションを GitHub Pages で公開し、かつ GA4 タグを利用するサンプル
 
 
-## Git push under `build` folder as Git Page branch
+## Deploy(git push) to GitHub Pages
 
-- `$ git subtree push --prefix build ogirin gh-pages`
+- `$ npm run deploy`
 
 
 ## References
 
-https://zenn.dev/kazuki23/articles/35f9227e5c45b2
+- [めっちゃ簡単！GitHub Pagesに Reactアプリを公開する方法](https://www.sukerou.com/2022/03/github-pages-react.html)
+
+- [【React】Google Analytics (GA4) を導入する](https://zenn.dev/kazuki23/articles/35f9227e5c45b2)
 
 
 ## Copyright
