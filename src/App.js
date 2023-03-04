@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { AppContextProvider } from './context/AppContext';
+import usePageTracking from './pages/useTracking';
 
 import Page0 from './pages/Page0';
 import PageA from './pages/PageA';
@@ -11,6 +12,7 @@ import './App.css';
 
 const Router = () => {
   useEffect(() => {
+    usePageTracking();
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
