@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "cross-env PUBLIC_URL=/react-wigh-ga react-scripts build",
+    "build": "cross-env PUBLIC_URL=/react-with-ga react-scripts build",
     "postbuild": "cp build/index.html build/404.html",
     "deploy": "npm run build && gh-pages -d build",
     "test": "react-scripts test",
